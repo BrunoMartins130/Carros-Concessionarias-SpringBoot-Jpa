@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>Carros </groupId>
-	<artifactId>Carros-e-Concessionarias</artifactId>
+	<artifactId>Carros-Concessionarias-SpringBoot-Jpa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Carros-e-Concessionarias</name>
 	<description>Modelos de carros esportivos </description>
