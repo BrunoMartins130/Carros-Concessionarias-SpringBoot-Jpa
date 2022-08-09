@@ -1,4 +1,4 @@
-package com.carros.concessionarias.controllers.entities;
+package com.carros.concessionarias.entities;
 
 import javax.persistence.*;
 

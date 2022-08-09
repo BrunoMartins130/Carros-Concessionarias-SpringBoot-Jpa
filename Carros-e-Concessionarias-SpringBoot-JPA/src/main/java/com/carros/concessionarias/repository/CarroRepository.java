@@ -1,6 +1,6 @@
-package com.carros.concessionarias.controllers.entities.repository;
+package com.carros.concessionarias.repository;
 
-import com.carros.concessionarias.controllers.entities.Carro;
+import com.carros.concessionarias.entities.Carro;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface CarroRepository extends JpaRepository<Carro, Long> {

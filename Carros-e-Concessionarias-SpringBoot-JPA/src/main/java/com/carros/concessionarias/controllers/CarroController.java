@@ -1,7 +1,7 @@
 package com.carros.concessionarias.controllers;
 
-import com.carros.concessionarias.controllers.entities.Carro;
-import com.carros.concessionarias.controllers.entities.repository.CarroRepository;
+import com.carros.concessionarias.entities.Carro;
+import com.carros.concessionarias.repository.CarroRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
