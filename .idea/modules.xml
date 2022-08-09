@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Carros e Concessionarias.iml" filepath="$PROJECT_DIR$/.idea/Carros e Concessionarias.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Carros-e-Concessionarias/Carros-e-Concessionarias.iml" filepath="$PROJECT_DIR$/Carros-e-Concessionarias/Carros-e-Concessionarias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Carros-concessionarias-SpringBoot-JPA.iml" filepath="$PROJECT_DIR$/.idea/Carros-concessionarias-SpringBoot-JPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Carros-e-Concessionarias/Carros-concessionarias-SringBoot-Jpa.iml" filepath="$PROJECT_DIR$/Carros-e-Concessionarias/Carros-concessionarias-SringBoot-Jpa.iml" />
     </modules>
   </component>
 </project>
